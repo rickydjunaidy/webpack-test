@@ -1,0 +1,10 @@
+{
+  "assets/js/runtime.js": "/assets/js/runtime.js",
+  "assets/js/framework-my-project.js": "/assets/js/framework-my-project.js",
+  "assets/js/apps-my-project.js": "/assets/js/apps-my-project.js",
+  "assets/js/library-my-project.js": "/assets/js/library-my-project.js",
+  "assets/css/framework-my-project.css": "/assets/css/framework-my-project.css",
+  "assets/css/apps-my-project.css": "/assets/css/apps-my-project.css",
+  "assets/css/library-my-project.css": "/assets/css/library-my-project.css",
+  "index.html": "/index.html"
+}
